@@ -1,1 +1,1 @@
-# colegio-mostazal
+Sitio estático del Colegio Diferencial Mostazal, en San Francisco de Mostazal. La página pública es `index.html` y las fotografías viven en `fotos/`; se publica tal cual, sin framework ni paso de compilación.
